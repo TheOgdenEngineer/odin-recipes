@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
+h1 {
+    text-align: left;
+    color: yellow;
+}
+ul {
+    text-align: left;
+    color: yellow;
+}
+a {
+    color: yellow;
+}
+img {
+    width: 290px;
+    height: 200px;
+}
+
